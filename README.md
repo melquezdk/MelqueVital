@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Melque Vital, Developer and studying for a degree in computing <br>👨‍💻🛰</h1>
+<h1 align="center">Hi, I'm Melque Vital, Developer and studying for a degree in computing <br>👨‍💻</h1>
    
     
 <div style="display: flex" align="center"><br>
